@@ -110,3 +110,33 @@ a.outerlink{text-decoration:none}
  word-wrap: break-word;}
 .linkStyle_37:visited{color:#0075B9; text-decoration:underline;}
 .linkStyle_37:hover{color:#FF2600; text-decoration:underline;}
+.Style40{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 16px; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style41{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 16px; 
+ color: #EC220A;
+ word-wrap: break-word;}
+.linkStyle_42{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 16px; 
+ color: #F9E031;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #F9E031 #F9E031 */
+ word-wrap: break-word;}
+.linkStyle_42:visited{color:#F9E031; text-decoration:underline;}
+.linkStyle_42:hover{color:#F9E031; text-decoration:underline;}
+.Style45{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 16px; 
+ margin:0;
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style46{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 15px; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style47{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 15px; 
+ margin:0;
+ color: #FEFEFE;
+ word-wrap: break-word;}
